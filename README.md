@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vincentereilly
-- 👀 I’m interested in learning R and R markdown.
+- 👋 Hi, I’m Vincent. Based in Dublin.
+- 👀 I’m interested in learning R and R Markdown.
 - 🌱 I’m currently learning introductory data science.
 
 
